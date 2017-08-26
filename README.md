@@ -1,12 +1,14 @@
 # Actionable Agile Tools For Distributed Teams
 
-This book is inspired by [Jeff Campbell's](https://github.com/Zebra003) excellent book [Actionable Agile Tools] (https://github.com/Zebra003/actionable-agile-tools)
+### CrowdWrite a handbook for distributed agile teams
 
-As technology continue to enabled work environments that are much more flexible and customizable, remote work becomes more and more common. Especially in the software development industry, that opens up for great opportunities to attract the best people and talent you need for a project. ["Work together, remotely, from any desk, in any space, in any place, anytime, anywhere."](https://37signals.com/remote) sound awesome, but is it possible? 
+This book is inspired by [Jeff Campbell's](https://github.com/Zebra003) excellent book [Actionable Agile Tools](https://github.com/Zebra003/actionable-agile-tools)
 
-At one conferance talk by Jeff Campbell, the author of Actionable Agile Tools, I asked the question what advice he had for distributed agile teams. His answer was short: "Don't do it!" For many people, agile means colocated. Basta!
+As technology continue to enable work environments that are much more flexible and customizable, remote work becomes more and more common. Especially in the software development industry, that opens up for great opportunities to attract the best people and talent you need for a project. ["Work together, remotely, from any desk, in any space, in any place, anytime, anywhere."](https://37signals.com/remote) sound awesome, but is it possible? 
 
-Colocation is useful. Colocation is handy. But is colocation the only way to go when it comes to agile teams?
+At one conferance talk by Jeff Campbell, the author of [Actionable Agile Tools](https://github.com/Zebra003/actionable-agile-tools), I asked the question what advice he had for distributed agile teams. His answer was short: "Don't do it!" For many people, agile means colocated. Basta!
+
+**Colocation has been the default way for a long time, I get it. But is colocation the only way to go when it comes to agile teams?**
 
 I've been working in software projects with distributed teams over the last 5 years. In most cases we've employed agile methodologies to get the job done. My experience tells me that working in distributed teams is not entirely without challenges but in no way is it harder than working in colocated teams. It's simply different.
 
